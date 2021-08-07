@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourite">Favourite</string>
+    <string name="profile">Profile</string>
+    <string name="about_us">About us</string>
+    <string name="open_drawer">open drawer</string>
+    <string name="close_drawer">close drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">Logout</string>
+    <string name="this_app_is_about_the_collections_of_books_that_are_stored_in_databases_and_we_can_add_books_to_the_favourites_and_can_remove_from_the_favourites_so_its_name_is_book_hub_app">This app is about the collections of books that are stored in databases and we can add books to the favourites and can remove from the favourites so its name is BOOK HUB app</string>
+</resources>
